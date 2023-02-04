@@ -1,6 +1,6 @@
 # 先上效果
 [点击观看](https://jamesyue369.github.io/vr/)<br/>
-获取源码加VX<br/>
+获取源码或技术支持加VX<br/>
 <img src="https://jamesyue369.github.io/vr/WechatIMG267.jpeg" width="200px" height="300px"/>
 # React 版本 VR看房插件
 # 使用方法
