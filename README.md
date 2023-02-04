@@ -1,5 +1,6 @@
 # 先上效果
-[点击观看](https://jamesyue369.github.io/vr/)
+[点击观看](https://jamesyue369.github.io/vr/)<br/>
+![获取源码加VX](https://jamesyue369.github.io/vr/WechatIMG267.jpeg)
 # React 版本 VR看房插件
 # 使用方法
 `import Vr from 'vr';`
