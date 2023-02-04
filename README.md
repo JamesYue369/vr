@@ -1,3 +1,5 @@
+# 先上效果
+[点击观看](https://jamesyue369.github.io/vr/)
 # React 版本 VR看房插件
 # 使用方法
 `import Vr from 'vr';`
