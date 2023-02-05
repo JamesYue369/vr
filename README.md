@@ -1,7 +1,8 @@
 # 先上效果
 [点击观看](https://jamesyue369.github.io/vr/)<br/>
-获取源码或技术支持加VX<br/>
-<img src="https://jamesyue369.github.io/vr/WechatIMG267.jpeg" width="200px" height="300px"/>
+客官打赏下吧，即可获取源码和小二的技术支持（请加VX）<br/>
+<img src="https://jamesyue369.github.io/vr/WechatIMG268.jpeg" width="210px" height="300px"/>
+<img src="https://jamesyue369.github.io/vr/WechatIMG267.jpeg" width="210px" height="300px"/>
 # 版权声明
 允许个人或公司进行二次开发，不允许二次售卖，否则追究法律责任！
 # React 版本 VR看房插件
