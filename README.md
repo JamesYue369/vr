@@ -1,6 +1,9 @@
 # 先上效果
-[点击观看](https://jamesyue369.github.io/vr/)<br/>
-客官打赏下吧，即可获取源码和小二的技术支持（请加VX）<br/>
+[点击观看](https://jamesyue369.github.io/vr/)如果卡顿可以查看下面的效果页面截图<br/>
+<img src="https://jamesyue369.github.io/vr/WX20230205-095113.png" />
+<img src="https://jamesyue369.github.io/vr/WX20230205-095200.png" />
+<img src="https://jamesyue369.github.io/vr/WX20230205-095228.png" />
+如果还满意的话，客官打赏下吧，即可获取源码和小二的技术支持（请加VX）<br/>
 <img src="https://jamesyue369.github.io/vr/WechatIMG268.jpeg" width="210px" height="300px"/>
 <img src="https://jamesyue369.github.io/vr/WechatIMG267.jpeg" width="210px" height="300px"/>
 # 版权声明
